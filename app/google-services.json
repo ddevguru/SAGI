@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364870374032",
+    "project_id": "sagi-df620",
+    "storage_bucket": "sagi-df620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364870374032:android:9f10036ae6be542a293e15",
+        "android_client_info": {
+          "package_name": "com.example.sagi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364870374032-v2sfau4ouvakhf6kekodlq9pqvc70hvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsh4iDr-Xkk6I8X9UEnzvIGdPpFS3p3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364870374032-v2sfau4ouvakhf6kekodlq9pqvc70hvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
